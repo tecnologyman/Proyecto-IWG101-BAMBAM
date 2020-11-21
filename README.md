@@ -8,3 +8,6 @@ Primer paso Levantamiento de requerimientos:
 2. Funcional 
  1.Modelo vista controlador MVC
  2. Crear una base de datos en donde almacene la reputacion y los comentarios a esa pagina
+
+
+1234 test
