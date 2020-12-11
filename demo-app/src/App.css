@@ -5,13 +5,13 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 10vh;
-  background: rgb(73,73,82);
+  min-height: 6vh;
+  background: rgb(51, 26, 99);
   color: White;
 }
 
 .Nav-links{
-  width: 40%;
+  width: 30%;
   display: flex;
   justify-content: space-around;
   align-items: center;
