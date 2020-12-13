@@ -5,17 +5,14 @@ import pcexpress from "./pcexpress.png";
 function Tiendas() {
   return (
     <div>
-        <h1>Tiendas Page</h1>
+        <div></div>
         <div classname="pcexpress">
-          <img src={pcexpress} 
-          width="200" 
-          height="100">
-        </img>
-        <h2>PcExpress</h2>
+          <a title="PCExpress" href="https://tienda.pc-express.cl" target="_blank"><img src={pcexpress} alt="PCExpress" height="100" width="200"/></a>
+          <u><h1>PCExpress</h1></u>
         </div>
-        <div>
+        <i><h3>
           A pesar de que la seccion dice tiendas, por ahora solo sera esta tienda, ya que te tiene una mayor vericidad de las reputaciones y comentarios de esta.          
-        </div>
+        </h3></i>
     </div>
   );
 }
