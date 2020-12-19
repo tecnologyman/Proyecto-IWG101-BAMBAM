@@ -1,0 +1,14 @@
+{
+    "Tiendas":[
+        {
+            "name":"pc-express",
+            "ranking":93,
+            "foto":"https://mantenedor.pc-express.cl/web/img/logo_pcexpress.png",
+            "url":"https://tienda.pc-express.cl/",
+            "comments":["muy buena atención, he comprado varios productos en esta tienda, y todos me han llegado muy bien y un muy poco tiempo, siendo que soy de región.",
+                         "Envio rapido","Respuesta inmediata a consultas, llamadas por teléfono y el producto llegó en 2 días.","Excelente tienda, buen servicio, buenos precios, y entregan super rapido, mejores que la competencia",
+                        "Filete, se demoro en llegar 1 dia y algo, ademas de buen sistema de paga","Excelente, atención rapida, envio rapido y seguro por Starken","me atendieron super bien, pregunte por el envío de mi paquete, me respondieron todo super rápido y amablemente. Recomendado",
+                        "Nefasta atención al cliente.","Rapido y buen precio"]
+        }
+    ]
+}
