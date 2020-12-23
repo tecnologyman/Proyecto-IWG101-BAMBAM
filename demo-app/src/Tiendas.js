@@ -14,15 +14,15 @@ function Tiendas() {
             <h2 align="center">Ranking: {data.ranking}</h2>
             <h1>Comentarios:</h1>
             <div class="comentarios">
-              <h4>{data.comment1}</h4><h1></h1>
-              <h4>{data.comment2}</h4><h1></h1>
-              <h4>{data.comment3}</h4><h1></h1>
-              <h4>{data.comment4}</h4><h1></h1>
-              <h4>{data.comment5}</h4><h1></h1>
-              <h4>{data.comment6}</h4><h1></h1>
-              <h4>{data.comment7}</h4><h1></h1>
-              <h4>{data.comment8}</h4><h1></h1>
-              <h4>{data.comment9}</h4><h1></h1>
+              <h4>{data.comment1}</h4>
+              <h4>{data.comment2}</h4>
+              <h4>{data.comment3}</h4>
+              <h4>{data.comment4}</h4>
+              <h4>{data.comment5}</h4>
+              <h4>{data.comment6}</h4>
+              <h4>{data.comment7}</h4>
+              <h4>{data.comment8}</h4>
+              <h4>{data.comment9}</h4>
             </div>
         </div>
        })}

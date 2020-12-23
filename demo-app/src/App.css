@@ -35,3 +35,43 @@ nav {
   background: rgb(115, 82, 148);
   color: White;
 }
+
+.about{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 60%;
+  background: rgb(51, 26, 99);
+  color: White;
+}
+
+.usm{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 80%;
+  background: rgb(115, 82, 148);
+  color: White;
+}
+
+.inicio{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 65%;
+  background: rgb(51, 26, 99);
+  color: White;
+}
+
+.pc{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 94%;
+  background: rgb(115, 82, 148);
+  color: White;
+}
+
+.pce{
+  border-radius: 10px;
+}
