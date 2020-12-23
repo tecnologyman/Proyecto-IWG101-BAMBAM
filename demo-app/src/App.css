@@ -17,3 +17,21 @@ nav {
   align-items: center;
   list-style: none;
 }
+
+.cuadro{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 60%;
+  background: rgb(51, 26, 99);
+  color: White;
+}
+
+.comentarios{
+  margin: 2% auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 80%;
+  background: rgb(115, 82, 148);
+  color: White;
+}
