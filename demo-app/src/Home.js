@@ -15,8 +15,9 @@ function Home() {
       <h4>En la seccion tiendas puedes observar todas las tiendas que tendremos en la pagina, pero por ahora por la facilidad y confiabilidad solo estaran los comentarios sobre la pagina pcexpress, todo esto en la seccion "tiendas"</h4> </i>
       <div class="pc">
       <u><h2>Esta Tienda es PcExpress</h2></u>
-        <a title="PcExpress" href="https://tienda.pc-express.cl" target="_blank"><img src={intro} alt="PcExpress" height="650" width="900" class="pce"/></a>
+        <a title="PcExpress" href="https://tienda.pc-express.cl" target="_blank"><img src={intro} alt="PcExpress" height="30%" width="90%" class="pce"/></a>
       </div>
+      <i><h3>Y por ultimo en la seccion "about" está la informacion de los desarrolladores de la pagina que en este caso somos nosotros</h3></i>
     </div>
   );
 }
