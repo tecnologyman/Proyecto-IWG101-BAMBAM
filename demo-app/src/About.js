@@ -14,7 +14,7 @@ function About() {
         <div class="usm">
           <a title="USM" href="https://usm.cl" target="_blank"><img src={usm} alt="usm" height="30%" width="90%" /></a> <br/>
           <h3><a href="https://proyectodepanaiwg1.wixsite.com/website" target="_blank"  >Pagina web del proyecto</a></h3>
-          <h3><a href="https://proyectodepanaiwg1.wixsite.com/website" target="_blank">GitHub del proyecto</a></h3>
+          <h3><a href="https://github.com/tecnologyman/Proyecto-IWG101-BAMBAM" target="_blank">GitHub del proyecto</a></h3>
         </div>
     </div>
   );
