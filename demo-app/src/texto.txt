@@ -1,0 +1,16 @@
+comment1 10/12/20 Msi Optix 24"
+comment2 3/12/20 Msi Optix 24"
+comment3 30/11/20 AMD Ryzen 5 3400G
+comment4 23/11/20 XPG 512GB SSD
+comment5 13/11/20 Intel I3 10100
+comment6 26/10/20 MSI H310M PRO-VDH
+comment7 5/10/20 LG 22"
+comment8 24/9/20 AMD RYZEN 3200G
+comment9 28/6/20 XPG D30 8GB DDR4-3000
+comment10 3/1/21 AMD RYZEN 2200G
+comment11 13/12/20 Ram Crucial 8GB DDR4 
+comment12 12/12/20 Gamemax 450W
+comment13 11/11/20 Asus Strix B550-F
+comment14 9/7/20 Intel I3 9100F
+comment15 4/7/20 HyperX Fury Black 8GB
+
