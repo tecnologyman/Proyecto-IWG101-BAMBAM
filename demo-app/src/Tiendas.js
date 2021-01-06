@@ -12,7 +12,7 @@ function Tiendas() {
         {DataTiendas.map((data, index)=>{
           return <div>
             <u><h1>{data.name}</h1></u>
-            <h2 align="center">Ranking: {data.ranking}</h2>
+            <h2 align="center">Calificación: {data.ranking}</h2>
             <h1>Comentarios:</h1>
             <div class="comentarios">
               <h4>{data.comment1}</h4>
